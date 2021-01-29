@@ -1,0 +1,6 @@
+# Environment varables
+.env
+node_modules
+
+# build
+dist
