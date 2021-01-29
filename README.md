@@ -9,9 +9,9 @@ this is an simple example to client report.
 * Babel (ES6+)
 
 # Endpoints
-* POST api/creacliente, add new Client.
-* GET api/kpideclientes, Show Average age and the standard deviation.
-* GET api/listclientes, get all Clients.
+* POST http://161.22.40.218:3000/api/creacliente  Add new Client.
+* GET http://161.22.40.218:3000/api/kpideclientes Show Average age and the standard deviation.
+* GET http://161.22.40.218:3000/api/listclientes Get all Clients.
 
 # Run the project
 In development
